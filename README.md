@@ -16,6 +16,7 @@ A final-year student pursuing Bachelors in Artificial Inteligence and Machine Le
 <img alt= "stats card" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Pratik-Ai&show_icons=true&theme=synthwave" />
  <img align="right" height="200" width="400" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
  </p>
+ <br></br>
 
 - 📫 How to reach me **devloperp9@gmail.com**
 <br><br>
