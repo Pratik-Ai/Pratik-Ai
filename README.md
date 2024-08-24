@@ -2,8 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Pratik Pawar</h1>
-<h5 align="center">
-A final-year student pursuing Bachelors in Artificial Inteligence and Machine Learning from AUM Mumbai. I am a Data Science enthusiast, Web developer, and ML engineer. 
+<h5 align="center"> student pursuing Bachelors in Artificial Inteligence and Machine Learning from AUM Mumbai. I am a Data Science enthusiast, Web developer, and ML engineer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Ai&color=07f1f5" /> </p>
 <p>
